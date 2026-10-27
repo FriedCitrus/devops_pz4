@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -218,3 +219,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Django
+db.sqlite3
+*.sqlite3
+.env
+
+# IDE (PyCharm/JetBrains)
+.idea/
+
+# OS
+.DS_Store
+>>>>>>> a128a8e (Stop tracking local files)
